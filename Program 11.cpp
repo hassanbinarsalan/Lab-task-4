@@ -2,7 +2,7 @@
 int main()
 {
 	int price;
-	int finalprice;
+	float finalprice;
 	int corporate;
 	printf("Enter original price: ");
 	scanf("%d", &price);
